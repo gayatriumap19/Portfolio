@@ -10,7 +10,7 @@ const Hero = () => {
                         <img 
                             src={profilePic} 
                             alt="Gayatri Umap" 
-                            className="w-150 h-130 object-cover border border-stone-900 rounded-xl clip-path: ellipse(49% 41% at 50% 49%);"
+                            className="w-150 h-130 object-cover border border-stone-900 rounded-xl profilePic"
                         />
                     </div>
                 </div>

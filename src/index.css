@@ -5,3 +5,7 @@
   font-family: "Inter", sans-serif;
   background-color: #000000;
 }
+
+.profilePic {
+  clip-path: ellipse(49% 47% at 50% 51%);
+}
