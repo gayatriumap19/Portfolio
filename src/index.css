@@ -9,3 +9,15 @@
 .profilePic {
   clip-path: ellipse(49% 47% at 50% 51%);
 }
+
+.projectDes {
+  text-align: justify;
+}
+
+.expDes {
+  text-align: justify;
+}
+
+.heroDes {
+  text-align: justify;
+}

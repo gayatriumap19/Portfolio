@@ -21,7 +21,7 @@ const Hero = () => {
                         to-stone-600 bg-clip-text text-3xl tracking-tight
                         text-transparent">Full Stack Developer</span>
                         <p className="my-2-max-w-lg py-6 text-xl leading-relaxed
-                        tracking-tighter">
+                        tracking-tighter heroDes">
                             { HERO_CONTENT }
                         </p>
 
