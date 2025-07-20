@@ -51,7 +51,7 @@ const Contact = () => {
         onSubmit={handleSubmit}
         className="w-full max-w-xl text-white space-y-6"
       >
-        <h2 className="text-4xl text-center font-semibold mb-8">Contact</h2>
+        <h2 className="my-20 text-center text-4xl">Contact</h2>
 
         <div>
           {/* <label className="text-sm block mb-2">Your Name</label> */}
@@ -62,7 +62,7 @@ const Contact = () => {
             onChange={handleChange}
             placeholder="What's your name?"
             required
-            className="w-full px-4 py-3 bg-[#121212] text-white rounded-sm border border-neutral-700 focus:outline-none focus:ring-1 focus:ring-[#fe424d]"
+            className="w-full px-4 py-3 bg-[#121212] text-white rounded-sm border border-neutral-700 focus:outline-none focus:ring-1 focus:ring-[#928e8e]"
           />
         </div>
 
@@ -75,7 +75,7 @@ const Contact = () => {
             onChange={handleChange}
             placeholder="What's your email?"
             required
-            className="w-full px-4 py-3 bg-[#121212] text-white rounded-sm border border-neutral-700 focus:outline-none focus:ring-1 focus:ring-[#fe424d]"
+            className="w-full px-4 py-3 bg-[#121212] text-white rounded-sm border border-neutral-700 focus:outline-none focus:ring-1 focus:ring-[#928e8e]"
           />
         </div>
 
@@ -88,7 +88,7 @@ const Contact = () => {
             placeholder="What do you want to say?"
             rows={5}
             required
-            className="w-full px-4 py-3 bg-[#121212] text-white rounded-sm border border-neutral-700 focus:outline-none focus:ring-1 focus:ring-[#fe424d]"
+            className="w-full px-4 py-3 bg-[#121212] text-white rounded-sm border border-neutral-700 focus:outline-none focus:ring-1 focus:ring-[#928e8e]"
           />
         </div>
 
